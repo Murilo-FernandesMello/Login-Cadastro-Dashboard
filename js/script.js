@@ -67,3 +67,7 @@ function vender() {
         document.getElementById("somama").innerHTML = "R$" + acMarguerita.toFixed(2)
     }
 }
+
+function vendido(){
+    alert('Obrigado por comprar conosco!')
+}
